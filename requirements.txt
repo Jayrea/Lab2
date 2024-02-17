@@ -1,0 +1,6 @@
+flask
+flask_session
+sqlalchemy
+python-dotenv
+requests
+dotenv
